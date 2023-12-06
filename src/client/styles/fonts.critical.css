@@ -1,0 +1,210 @@
+/* CircularXX thin */
+@font-face {
+    font-family: 'CircularXX';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src:
+        url('../assets/fonts/CircularXX-Thin.woff2') format('woff2'),
+        url('../assets/fonts/CircularXX-Thin.woff') format('woff'),
+        url('../assets/fonts/CircularXX-Thin.ttf') format('truetype');
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* CircularXX thin italic */
+@font-face {
+    font-family: 'CircularXX';
+    font-style: italic;
+    font-weight: 100;
+    font-display: swap;
+    src:
+        url('../assets/fonts/CircularXX-ThinItalic.woff2') format('woff2'),
+        url('../assets/fonts/CircularXX-ThinItalic.woff') format('woff'),
+        url('../assets/fonts/CircularXX-ThinItalic.ttf') format('truetype');
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* CircularXX light */
+@font-face {
+    font-family: 'CircularXX';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src:
+        url('../assets/fonts/CircularXX-Light.woff2') format('woff2'),
+        url('../assets/fonts/CircularXX-Light.woff') format('woff'),
+        url('../assets/fonts/CircularXX-Light.ttf') format('truetype');
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* CircularXX light italic */
+@font-face {
+    font-family: 'CircularXX';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src:
+        url('../assets/fonts/CircularXX-LightItalic.woff2') format('woff2'),
+        url('../assets/fonts/CircularXX-LightItalic.woff') format('woff'),
+        url('../assets/fonts/CircularXX-LightItalic.ttf') format('truetype');
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* CircularXX regular */
+@font-face {
+    font-family: 'CircularXX';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src:
+        url('../assets/fonts/CircularXX-Regular.woff2') format('woff2'),
+        url('../assets/fonts/CircularXX-Regular.woff') format('woff'),
+        url('../assets/fonts/CircularXX-Regular.ttf') format('truetype');
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* CircularXX italic */
+@font-face {
+    font-family: 'CircularXX';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src:
+        url('../assets/fonts/CircularXX-Italic.woff2') format('woff2'),
+        url('../assets/fonts/CircularXX-Italic.woff') format('woff'),
+        url('../assets/fonts/CircularXX-Italic.ttf') format('truetype');
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* CircularXX book */
+@font-face {
+    font-family: 'CircularXX';
+    font-style: normal;
+    font-weight: 450;
+    font-display: swap;
+    src:
+        url('../assets/fonts/CircularXX-Book.woff2') format('woff2'),
+        url('../assets/fonts/CircularXX-Book.woff') format('woff'),
+        url('../assets/fonts/CircularXX-Book.ttf') format('truetype');
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* CircularXX book italic */
+@font-face {
+    font-family: 'CircularXX';
+    font-style: italic;
+    font-weight: 500;
+    font-display: swap;
+    src:
+        url('../assets/fonts/CircularXX-BookItalic.woff2') format('woff2'),
+        url('../assets/fonts/CircularXX-BookItalic.woff') format('woff'),
+        url('../assets/fonts/CircularXX-BookItalic.ttf') format('truetype');
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* CircularXX medium */
+@font-face {
+    font-family: 'CircularXX';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src:
+        url('../assets/fonts/CircularXX-Medium.woff2') format('woff2'),
+        url('../assets/fonts/CircularXX-Medium.woff') format('woff'),
+        url('../assets/fonts/CircularXX-Medium.ttf') format('truetype');
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* CircularXX medium italic */
+@font-face {
+    font-family: 'CircularXX';
+    font-style: italic;
+    font-weight: 500;
+    font-display: swap;
+    src:
+        url('../assets/fonts/CircularXX-MediumItalic.woff2') format('woff2'),
+        url('../assets/fonts/CircularXX-MediumItalic.woff') format('woff'),
+        url('../assets/fonts/CircularXX-MediumItalic.ttf') format('truetype');
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* CircularXX bold */
+@font-face {
+    font-family: 'CircularXX';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src:
+        url('../assets/fonts/CircularXX-Bold.woff2') format('woff2'),
+        url('../assets/fonts/CircularXX-Bold.woff') format('woff'),
+        url('../assets/fonts/CircularXX-Bold.ttf') format('truetype');
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* CircularXX bold italic */
+@font-face {
+    font-family: 'CircularXX';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src:
+        url('../assets/fonts/CircularXX-BoldItalic.woff2') format('woff2'),
+        url('../assets/fonts/CircularXX-BoldItalic.woff') format('woff'),
+        url('../assets/fonts/CircularXX-BoldItalic.ttf') format('truetype');
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* CircularXX black */
+@font-face {
+    font-family: 'CircularXX';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src:
+        url('../assets/fonts/CircularXX-Black.woff2') format('woff2'),
+        url('../assets/fonts/CircularXX-Black.woff') format('woff'),
+        url('../assets/fonts/CircularXX-Black.ttf') format('truetype');
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* CircularXX black italic */
+@font-face {
+    font-family: 'CircularXX';
+    font-style: italic;
+    font-weight: 900;
+    font-display: swap;
+    src:
+        url('../assets/fonts/CircularXX-BlackItalic.woff2') format('woff2'),
+        url('../assets/fonts/CircularXX-BlackItalic.woff') format('woff'),
+        url('../assets/fonts/CircularXX-BlackItalic.ttf') format('truetype');
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* Nib regular */
+@font-face {
+    font-family: 'nib-regular';
+    src: url('../assets/fonts/nib-regular.eot');
+    src:
+        url('../assets/fonts/nib-regular.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/nib-regular.woff2') format('woff2'),
+        url('../assets/fonts/nib-regular.woff') format('woff'),
+        url('../assets/fonts/nib-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+/* Space Mono regular */
+@font-face {
+    font-family: 'Space Mono';
+    src: url('../assets/fonts/SpaceMono-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+/* Space Mono bold */
+@font-face {
+    font-family: 'Space Mono';
+    src: url('../assets/fonts/SpaceMono-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+/* Space Mono italic */
+@font-face {
+    font-family: 'Space Mono';
+    src: url('../assets/fonts/SpaceMono-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+/* Space Mono bold */
+@font-face {
+    font-family: 'Space Mono';
+    src: url('../assets/fonts/SpaceMono-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+/*# sourceMappingURL=fonts.critical.css.map */

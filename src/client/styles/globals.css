@@ -1,0 +1,35 @@
+@import './fonts.critical.css';
+@import './core.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    font-family: 'CircularXX', sans-serif;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.87);
+}
+
+* {
+    outline: none;
+}
+
+#root {
+    display: flex;
+    min-width: 100%;
+    min-height: 100%;
+    font-family: 'CircularXX', sans-serif;
+}
+
+#app-body {
+    font-family: 'CircularXX', sans-serif;
+}

@@ -1,0 +1,72 @@
+version: '3'
+services:
+  redis-insight:
+    container_name: redis-insight
+    image: redislabs/redisinsight:latest
+    ports:
+      - '8001:8001'
+    networks:
+      - appnet
+  nestjs-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    depends_on:
+      - redis
+    env_file:
+      - .env
+    networks:
+      - appnet
+  redis:
+    image: redis:alpine
+    restart: always
+    entrypoint: redis-server --appendonly yes
+    volumes:
+      - .docker/redis:/data
+    networks:
+      - appnet
+    ports:
+      - ${REDIS_PORT}:6379
+networks:
+  appnet:
+    driver: bridge
+# version: '3.7'
+# services: 
+#     redis-insight:
+#       container_name: redis-insight
+#       image: redislabs/redisinsight:latest
+#       ports:
+#         - '8001:8001'
+#       networks:
+#         - webnet
+#     redis:
+#       image: redis
+#       ports:
+#         - '6379:6379'
+#       volumes:
+#         - redis_data:/data
+#       networks:
+#         - webnet
+#     app:
+#       build:
+#         context: .
+#         dockerfile: Dockerfile
+#       container_name: nest
+#       ports:
+#         - '3000:3000'
+#       networks:
+#         - webnet
+#       env_file:
+#         - .env
+#       depends_on:
+#         - redis
+#       volumes:
+#         - ./src:/app/src
+# networks:
+#   webnet:
+#     driver: bridge
+# volumes:
+#   redis_data:
+#     driver: local

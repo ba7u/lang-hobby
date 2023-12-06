@@ -1,0 +1,494 @@
+{
+    "response": [
+        {
+            "eng": "abroad",
+            "tr": "yurtdışı",
+            "type": "adverb",
+            "definitions": {
+                "eng": "in or to a foreign country or countries",
+                "tr": "yabancı bir ülkeye veya ülkelere"
+            },
+            "category": "travel"
+        },
+        {
+            "eng": "achievement",
+            "tr": "başarı",
+            "type": "noun",
+            "definitions": {
+                "eng": "a thing done successfully, typically by effort, courage, or skill",
+                "tr": "genellikle çaba, cesaret veya beceri ile başarıyla tamamlanan bir şey"
+            },
+            "category": "education"
+        },
+        {
+            "eng": "analyze",
+            "tr": "çözümlemek",
+            "type": "verb",
+            "definitions": {
+                "eng": "examine methodically and in detail the constitution or structure of (something, especially information), typically for purposes of explanation and interpretation",
+                "tr": "(özellikle bilgi açıklaması ve yorumlama amaçlı) bir şeyin yapısını ya da bileşenlerini yöntemli ve ayrıntılı şekilde incelemek"
+            },
+            "category": "education"
+        },
+        {
+            "eng": "analyze",
+            "tr": "analiz etmek",
+            "type": "verb",
+            "definitions": {
+                "eng": "examine methodically and in detail the constitution or structure of (something, especially information), typically for purposes of explanation and interpretation",
+                "tr": "(özellikle bilgi açıklaması ve yorumlama amaçlı) bir şeyin yapısını ya da bileşenlerini yöntemli ve ayrıntılı şekilde incelemek"
+            },
+            "category": "education"
+        },
+        {
+            "eng": "approximately",
+            "tr": "yaklaşık olarak",
+            "type": "adverb",
+            "definitions": {
+                "eng": "used to show that something is almost, but not completely, accurate or exact; roughly",
+                "tr": "bir şeyin hemen hemen, fakat tam olarak olmasa da doğru veya kesin olduğunu göstermek için kullanılır; yaklaşık olarak"
+            },
+            "category": "numbers"
+        },
+        {
+            "eng": "argue",
+            "tr": "tartışmak",
+            "type": "verb",
+            "definitions": {
+                "eng": "give reasons or cite evidence in support of an idea, action, or theory, typically with the aim of persuading others to share one's view",
+                "tr": "bir fikir, eylem veya teoriyi desteklemek için nedenler sunmak veya kanıtlar göstermek; genellikle başkalarını ikna etme amacıyla"
+            },
+            "category": "communication"
+        },
+        {
+            "eng": "assistant",
+            "tr": "asistan",
+            "type": "noun",
+            "definitions": {
+                "eng": "a person who helps in particular work",
+                "tr": "belirli bir işte yardım eden bir kişi"
+            },
+            "category": "jobs"
+        },
+        {
+            "eng": "astonishing",
+            "tr": "şaşırtıcı",
+            "type": "adjective",
+            "definitions": {
+                "eng": "extremely surprising or impressive; amazing",
+                "tr": "son derece şaşırtıcı veya etkileyici; şaşırtıcı"
+            },
+            "category": "descriptive"
+        },
+        {
+            "eng": "atmosphere",
+            "tr": "atmosfer",
+            "type": "noun",
+            "definitions": {
+                "eng": "the envelope of gases surrounding the earth or another planet",
+                "tr": "Dünya veya başka bir gezegenin çevresini saran gaz zarfı"
+            },
+            "category": "science"
+        },
+        {
+            "eng": "authentic",
+            "tr": "gerçek",
+            "type": "adjective",
+            "definitions": {
+                "eng": "of undisputed origin; genuine",
+                "tr": "tanınmamış kökene ait; gerçek"
+            },
+            "category": "descriptive"
+        },
+        {
+            "eng": "aware",
+            "tr": "farkında",
+            "type": "adjective",
+            "definitions": {
+                "eng": "having knowledge or perception of a situation or fact",
+                "tr": "bir durum veya gerçek hakkında bilgi veya algıya sahip olmak"
+            },
+            "category": "descriptive"
+        },
+        {
+            "eng": "attack",
+            "tr": "saldırmak",
+            "type": "verb",
+            "definitions": {
+                "eng": "take aggressive action against (a place or enemy forces) with weapons or armed force, typically in a battle or war",
+                "tr": "(bir yer veya düşman kuvvetler) silah veya silahlı kuvvetle saldırgan bir hareket yapmak, genellikle bir savaş veya savaşta"
+            },
+            "category": "action"
+        },
+        {
+            "eng": "authority",
+            "tr": "yetki",
+            "type": "noun",
+            "definitions": {
+                "eng": "the power or right to give orders, make decisions, and enforce obedience",
+                "tr": "emir verme, karar verme ve itaati zorlama gücü veya hakkı"
+            },
+            "category": "government"
+        },
+        {
+            "eng": "beautiful",
+            "tr": "güzel",
+            "type": "adjective",
+            "definitions": {
+                "eng": "pleasing the senses or mind aesthetically",
+                "tr": "duyusal veya zihinsel olarak keyif veren"
+            },
+            "category": "descriptive"
+        },
+        {
+            "eng": "behavior",
+            "tr": "davranış",
+            "type": "noun",
+            "definitions": {
+                "eng": "the way in which one acts or conducts oneself, especially toward others",
+                "tr": "birinin davrandığı veya kendini yönettiği tarz, özellikle başkalarına karşı"
+            },
+            "category": "psychology"
+        },
+        {
+            "eng": "believe",
+            "tr": "inanmak",
+            "type": "verb",
+            "definitions": {
+                "eng": "accept that (something) is true, especially without proof",
+                "tr": "(bir şeyin) doğru olduğunu kabul etmek, özellikle kanıt olmaksızın"
+            },
+            "category": "cognition"
+        },
+        {
+            "eng": "benefit",
+            "tr": "fayda",
+            "type": "noun",
+            "definitions": {
+                "eng": "an advantage or profit gained from something",
+                "tr": "bir şeyden elde edilen bir avantaj veya kar"
+            },
+            "category": "common"
+        },
+        {
+            "eng": "benefit",
+            "tr": "yararlanmak",
+            "type": "verb",
+            "definitions": {
+                "eng": "receive an advantage; profit",
+                "tr": "bir avantaj almak; kâr elde etmek"
+            },
+            "category": "common"
+        },
+        {
+            "eng": "bold",
+            "tr": "cesur",
+            "type": "adjective",
+            "definitions": {
+                "eng": "showing an ability to take risks; confident and courageous",
+                "tr": "risk almaya yetenek gösterme; kendinden emin ve cesur"
+            },
+            "category": "descriptive"
+        },
+        {
+            "eng": "bother",
+            "tr": "rahatsız etmek",
+            "type": "verb",
+            "definitions": {
+                "eng": "take the trouble to do something",
+                "tr": "bir şey yapmak için uğraşmak"
+            },
+            "category": "communication"
+        },
+        {
+            "eng": "bound",
+            "tr": "bağlı",
+            "type": "adjective",
+            "definitions": {
+                "eng": "tied; fastened",
+                "tr": "bağlı; tutturulmuş"
+            },
+            "category": "descriptive"
+        },
+        {
+            "eng": "broadcast",
+            "tr": "yayınlamak",
+            "type": "verb",
+            "definitions": {
+                "eng": "transmit (a program or some information) by radio or television",
+                "tr": "(bir program veya bazı bilgileri) radyo veya televizyon aracılığıyla aktarmak"
+            },
+            "category": "communication"
+        },
+        {
+            "eng": "Broadcast",
+            "tr": "Yayın",
+            "type": "noun",
+            "definitions": {
+                "eng": "a program or transmitted the information on radio or television",
+                "tr": "bir program veya televizyon veya radyoda aktarılan bilgiler"
+            },
+            "category": "communication"
+        },
+        {
+            "eng": "bruise",
+            "tr": "morarmak",
+            "type": "verb",
+            "definitions": {
+                "eng": "an injury in which the skin is not broken; a bluish mark on the skin due to the pooling of blood following an injury",
+                "tr": "cildin kırılmadığı bir yaralanma; bir yaralanmayı takiben kanın birikmesi nedeniyle ciltteki morumsu iz"
+            },
+            "category": "health"
+        },
+        {
+            "eng": "bruise",
+            "tr": "morarmak",
+            "type": "verb",
+            "definitions": {
+                "eng": "an injury in which the skin is not broken; a bluish mark on the skin due to the pooling of blood following an injury",
+                "tr": "cildin kırılmadığı bir yaralanma; bir yaralanmayı takiben kanın birikmesi nedeniyle ciltteki morumsu iz"
+            },
+            "category": "descriptive"
+        },
+        {
+            "eng": "burden",
+            "tr": "yük",
+            "type": "noun",
+            "definitions": {
+                "eng": "a load, typically a heavy one",
+                "tr": "genellikle ağır bir yük"
+            },
+            "category": "common"
+        },
+        {
+            "eng": "calculate",
+            "tr": "hesaplamak",
+            "type": "verb",
+            "definitions": {
+                "eng": "determine (the amount or number of something) mathematically",
+                "tr": "(bir şeyin miktarını veya sayısını) matematiksel olarak belirlemek"
+            },
+            "category": "mathematics"
+        },
+        {
+            "eng": "calculate",
+            "tr": "hesaplamak",
+            "type": "verb",
+            "definitions": {
+                "eng": "determine (the amount or number of something) mathematically",
+                "tr": "(bir şeyin miktarını veya sayısını) matematiksel olarak belirlemek"
+            },
+            "category": "education"
+        },
+        {
+            "eng": "calculate",
+            "tr": "hesaplamak",
+            "type": "verb",
+            "definitions": {
+                "eng": "determine (the amount or number of something) mathematically",
+                "tr": "(bir şeyin miktarını veya sayısını) matematiksel olarak belirlemek"
+            },
+            "category": "mathematics"
+        },
+        {
+            "eng": "calculate",
+            "tr": "hesaplamak",
+            "type": "verb",
+            "definitions": {
+                "eng": "determine (the amount or number of something) mathematically",
+                "tr": "(bir şeyin miktarını veya sayısını) matematiksel olarak belirlemek"
+            },
+            "category": "mathematics"
+        },
+        {
+            "eng": "capacity",
+            "tr": "kapasite",
+            "type": "noun",
+            "definitions": {
+                "eng": "the maximum amount that something can contain",
+                "tr": "bir şeyin alabileceği maksimum miktarı"
+            },
+            "category": "common"
+        },
+        {
+            "eng": "capacity",
+            "tr": "kapasite",
+            "type": "noun",
+            "definitions": {
+                "eng": "the maximum amount that something can contain",
+                "tr": "bir şeyin alabileceği maksimum miktarı"
+            },
+            "category": "common"
+        },
+        {
+            "eng": "capacity",
+            "tr": "kapasite",
+            "type": "noun",
+            "definitions": {
+                "eng": "the maximum amount that something can contain",
+                "tr": "bir şeyin alabileceği maksimum miktarı"
+            },
+            "category": "common"
+        },
+        {
+            "eng": "capacity",
+            "tr": "kapasite",
+            "type": "noun",
+            "definitions": {
+                "eng": "the maximum amount that something can contain",
+                "tr": "bir şeyin alabileceği maksimum miktarı"
+            },
+            "category": "common"
+        },
+        {
+            "eng": "cautious",
+            "tr": "dikkatli",
+            "type": "adjective",
+            "definitions": {
+                "eng": "careful to avoid potential problems or dangers",
+                "tr": "potansiyel sorunları veya tehlikeleri önlemek için dikkatli"
+            },
+            "category": "descriptive"
+        },
+        {
+            "eng": "celebrate",
+            "tr": "kutlamak",
+            "type": "verb",
+            "definitions": {
+                "eng": "acknowledge a significant or happy day or event with a social gathering or enjoyable activity",
+                "tr": "bir sosyal toplantı veya keyifli bir etkinlikle önemli veya mutlu bir günü veya olayı kutlamak"
+            },
+            "category": "common"
+        },
+        {
+            "eng": "certain",
+            "tr": "belirli",
+            "type": "adjective",
+            "definitions": {
+                "eng": "known for sure; established beyond doubt",
+                "tr": "kesin olarak bilinen; şüpheden öte tanımlanan"
+            },
+            "category": "cognition"
+        },
+        {
+            "eng": "chance",
+            "tr": "şans",
+            "type": "noun",
+            "definitions": {
+                "eng": "a possibility or probability of something happening",
+                "tr": "bir şeyin olma olasılığı veya olabilirliği"
+            },
+            "category": "chance"
+        },
+        {
+            "eng": "chance",
+            "tr": "şans",
+            "type": "noun",
+            "definitions": {
+                "eng": "a possibility or probability of something happening",
+                "tr": "bir şeyin olma olasılığı veya olabilirliği"
+            },
+            "category": "chance"
+        },
+        {
+            "eng": "chance",
+            "tr": "şans",
+            "type": "noun",
+            "definitions": {
+                "eng": "a possibility or probability of something happening",
+                "tr": "bir şeyin olma olasılığı veya olabilirliği"
+            },
+            "category": "chance"
+        },
+        {
+            "eng": "character",
+            "tr": "karakter",
+            "type": "noun",
+            "definitions": {
+                "eng": "the mental and moral qualities distinctive to an individual",
+                "tr": "bir bireye özgü ruhsal ve ahlaki nitelikler"
+            },
+            "category": "psychology"
+        },
+        {
+            "eng": "character",
+            "tr": "karakter",
+            "type": "noun",
+            "definitions": {
+                "eng": "the mental and moral qualities distinctive to an individual",
+                "tr": "bir bireye özgü ruhsal ve ahlaki nitelikler"
+            },
+            "category": "fiction"
+        },
+        {
+            "eng": "chase",
+            "tr": "kovalamak",
+            "type": "verb",
+            "definitions": {
+                "eng": "pursue in order to catch or catch up with",
+                "tr": "kapanmak veya yetişmek için takip etmek"
+            },
+            "category": "action"
+        },
+        {
+            "eng": "chase",
+            "tr": "kovalamak",
+            "type": "verb",
+            "definitions": {
+                "eng": "pursue in order to catch or catch up with",
+                "tr": "kapanmak veya yetişmek için takip etmek"
+            },
+            "category": "action"
+        },
+        {
+            "eng": "chase",
+            "tr": "kaçmak",
+            "type": "verb",
+            "definitions": {
+                "eng": "pursue in order to catch or catch up with",
+                "tr": "kapanmak veya yetişmek için takip etmek"
+            },
+            "category": "action"
+        },
+        {
+            "eng": "chief",
+            "tr": "şef",
+            "type": "noun",
+            "definitions": {
+                "eng": "a leader or ruler of a people or clan",
+                "tr": "bir halk veya klan lideri veya yönetici"
+            },
+            "category": "jobs"
+        },
+        {
+            "eng": "chief",
+            "tr": "baş",
+            "type": "noun",
+            "definitions": {
+                "eng": "a leader or ruler of a people or clan",
+                "tr": "bir halk veya klan lideri veya yönetici"
+            },
+            "category": "common"
+        },
+        {
+            "eng": "choose",
+            "tr": "seçmek",
+            "type": "verb",
+            "definitions": {
+                "eng": "pick out or select (someone or something) as being the best or most appropriate of two or more alternatives",
+                "tr": "en iyi veya en uygun olanını seçmek veya seçmek için (birini veya bir şeyi) seçmek"
+            },
+            "category": "action"
+        },
+        {
+            "eng": "choose",
+            "tr": "seçmek",
+            "type": "verb",
+            "definitions": {
+                "eng": "pick out or select (someone or something) as being the best or most appropriate of two or more alternatives",
+                "tr": "en iyi veya en uygun olanını seçmek veya seçmek için (birini veya bir şeyi) seçmek"
+            },
+            "category": "action"
+        }
+    ]
+}

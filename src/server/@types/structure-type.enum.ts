@@ -1,0 +1,16 @@
+export enum StructureTypeEnum {
+    WORD = 'word',
+    PHRASAL_VERB = 'phrasal verb',
+    Noun = 'noun',
+    Verb = 'verb',
+    Adjective = 'adjective',
+    Adverb = 'adverb',
+    Pronoun = 'pronoun',
+    Preposition = 'preposition',
+    Conjunction = 'conjunction',
+    Interjection = 'interjection',
+    Abbreviation = 'abbreviation',
+    Phrase = 'phrase',
+    Idiom = 'idiom',
+    Slang = 'slang',
+}

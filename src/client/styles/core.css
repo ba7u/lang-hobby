@@ -1,0 +1,286 @@
+@layer components {
+    @media (hover: hover) {
+        .has-hover,
+        .icon-bedrock,
+        .btn-tertiary-small,
+        .btn-tertiary,
+        .btn-tertiary-strong,
+        .btn-secondary-small,
+        .btn-bedrock,
+        .btn-red,
+        .btn-brand,
+        .btn-secondary,
+        .btn-primary {
+            @apply hover:opacity-80;
+        }
+    }
+    .text-h-120 {
+        font-size: 120px;
+        line-height: 120px;
+        @apply antialiased;
+        font-family: var(--brand-heading-font-family);
+        font-weight: var(--brand-heading-font-weight);
+    }
+
+    .text-h1-sizeonly {
+        font-size: 40px;
+        line-height: 48px;
+    }
+
+    .text-h1 {
+        @apply antialiased;
+        font-size: 40px;
+        line-height: 48px;
+        font-family: var(--brand-heading-font-family);
+        font-weight: var(--brand-heading-font-weight);
+    }
+
+    .heading-tertiary {
+        font-size: 18px;
+        line-height: 22px;
+        font-weight: 500;
+        @apply antialiased;
+    }
+
+    .text-h2 {
+        font-size: 20px;
+        line-height: 30px;
+        @apply antialiased;
+        font-family: var(--brand-heading-font-family);
+        font-weight: var(--brand-heading-font-weight);
+    }
+
+    .text-serif-h1 {
+        font-size: 40px;
+        line-height: 48px;
+        @apply antialiased;
+        font-family: 'nib-regular';
+        font-weight: 400;
+    }
+
+    .text-serif-h2 {
+        font-size: 20px;
+        line-height: 30px;
+        @apply antialiased;
+        font-family: 'nib-regular';
+        font-weight: 400;
+    }
+
+    .text-mobile-input {
+        font-size: 16px;
+        line-height: 22px;
+        @apply antialiased;
+        font-weight: 400;
+    }
+    @media (min-width: 768px) {
+        .text-mobile-input {
+            font-size: 14px;
+        }
+    }
+
+    .text-p {
+        font-size: 14px;
+        line-height: 22px;
+        font-weight: 400;
+        @apply antialiased;
+    }
+
+    .text-p-strong,
+    .btn-tertiary-small,
+    .btn-tertiary,
+    .btn-tertiary-strong,
+    .btn-secondary-small,
+    .btn-bedrock,
+    .btn-red,
+    .btn-brand,
+    .btn-secondary,
+    .btn-primary {
+        font-size: 14px;
+        line-height: 22px;
+        font-weight: 500;
+        @apply antialiased;
+    }
+
+    .text-p-small {
+        font-size: 12px;
+        line-height: 18px;
+        font-weight: 400;
+        @apply antialiased;
+    }
+
+    .text-p-small-strong {
+        font-size: 12px;
+        line-height: 18px;
+        font-weight: 450;
+        @apply antialiased;
+    }
+
+    .text-tiny-strong {
+        font-size: 9px;
+        line-height: 18px;
+        font-weight: 500;
+        @apply antialiased;
+    }
+
+    .text-code-regular {
+        font-weight: 400;
+        font-family: 'Space Mono', monospace;
+        font-size: 12px;
+        line-height: 22px;
+        @apply antialiased;
+    }
+
+    .text-code-strong {
+        font-weight: 700;
+        font-family: 'Space Mono', monospace;
+        font-size: 12px;
+        line-height: 22px;
+        @apply antialiased;
+    }
+
+    /** mobile styles **/
+    .text-serif-h1-mobile {
+        font-size: 32px;
+        line-height: 42px;
+        font-family: 'nib-regular';
+        font-weight: 400;
+        @apply antialiased;
+    }
+
+    .text-h1-mobile {
+        font-size: 32px;
+        line-height: 42px;
+        font-family: var(--brand-heading-font-family);
+        font-weight: var(--brand-heading-font-weight);
+        @apply antialiased;
+    }
+
+    .text-p-mobile {
+        font-size: 18px;
+        line-height: 26px;
+        font-weight: 450;
+        @apply antialiased;
+    }
+
+    .active-ring {
+        box-shadow:
+            white 0px 0px 0px 0px,
+            rgba(16, 16, 16, 0.08) 0px 0px 0px 4px,
+            rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+    }
+
+    .btn-bedrock,
+    .btn-red,
+    .btn-brand,
+    .btn-secondary,
+    .btn-primary {
+        @apply transition-all rounded-lg py-[7px] border-2 border-transparent px-[14px] focus:ring-2 focus:ring-orange focus-visible:outline-none disabled:opacity-40;
+    }
+
+    .btn-primary {
+        @apply bg-black text-white;
+    }
+
+    .btn-secondary {
+        @apply bg-white text-black border-2 border-gray-medium;
+    }
+
+    .btn-secondary-small {
+        @apply focus:ring-2 focus:ring-orange focus-visible:outline-none disabled:opacity-40;
+        @apply rounded-lg bg-white text-black border-2 border-gray-medium px-1.5 py-0.5;
+    }
+
+    .btn-tertiary,
+    .btn-tertiary-strong {
+        @apply rounded-lg py-[7px] border-2 border-transparent px-[14px] focus:ring-2 focus:ring-orange focus-visible:outline-none disabled:opacity-40;
+        @apply bg-transparent text-black;
+    }
+
+    .btn-tertiary-small {
+        @apply rounded-lg py-1 px-2 border-0 focus:ring-2 focus:ring-orange focus-visible:outline-none disabled:opacity-40;
+        @apply bg-transparent text-black;
+    }
+
+    .btn-brand {
+        @apply bg-brand-primary text-brand-text;
+    }
+
+    .btn-red {
+        @apply bg-red text-white;
+    }
+
+    .icon-bedrock {
+        @apply transition-opacity focus:ring-2 focus:ring-orange focus:ring-offset-2 focus-visible:outline-none rounded-lg;
+    }
+
+    .anchor-link {
+        @apply cursor-pointer hover:opacity-80 underline;
+    }
+
+    .stacked-card-shadow {
+        filter: drop-shadow(0px 1px 1px rgba(0, 0, 0, 0.08));
+    }
+
+    .dragging-section-ring {
+        box-shadow:
+            #f4f4f5 0px 0px 0px 4px,
+            #e6e6e6 0px 0px 0px 8px,
+            rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+        @apply rounded-lg;
+    }
+
+    .active-card {
+        box-shadow:
+            white 0px 0px 0px 0px,
+            #e6e6e6 0px 0px 0px 3px,
+            rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+    }
+
+    .dragging-step-ring {
+        box-shadow:
+            white 0px 0px 0px 0px,
+            rgb(var(--brand-primary)) 0px 0px 0px 2px,
+            rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+    }
+
+    .floating-button-ring {
+        box-shadow: #f4f4f5 0px 0px 0px 8px;
+        @apply rounded-lg;
+    }
+
+    .org-logo-ring {
+        box-shadow:
+            white 0px 0px 0px 0px,
+            white 0px 0px 0px 1.5px,
+            rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+    }
+
+    .branding-color-ring {
+        box-shadow:
+            white 0px 0px 0px 0px,
+            white 0px 0px 0px 2px,
+            rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+    }
+
+    .text-input-ring {
+        box-shadow:
+            white 0px 0px 0px 0px,
+            rgba(var(--brand-primary), 0.08) 0px 0px 0px 2px,
+            rgba(0, 0, 0, 0) 0px 0px 0px 0px !important;
+    }
+
+    .onboarding-avatar-unread-ring {
+        box-shadow:
+            white 0px 0px 0px 0px,
+            white 0px 0px 0px 1.5px,
+            rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+    }
+
+    .backdrop-blur {
+        backdrop-filter: blur(16px);
+    }
+
+    .backdrop-blur {
+        backdrop-filter: blur(16px);
+    }
+}
